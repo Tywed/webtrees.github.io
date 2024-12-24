@@ -280,6 +280,12 @@ The news management system allows users to attach images to their news posts, en
 
 ----------
 
+### Telegram - by Tywed - `2.2` - [website](https://github.com/Tywed/telegram)
+
+This custom webtrees module sends notifications to Telegram about significant family events, such as birthdays and anniversaries (and many others), based on data from your webtrees installation.
+
+----------
+
 ### OpenStreetMap - by ric2016 - `1.7` - [website](https://github.com/ric2016/openstreetmap_hooked)
 
 This module provides an alternative to the [Google Maps™](https://www.google.com/maps) module,
